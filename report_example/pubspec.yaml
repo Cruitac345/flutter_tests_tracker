@@ -1,0 +1,11 @@
+name: aurora_report_example
+description: Simple CSV expense report practice for Volga IT Aurora Flutter
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  csv: ^8.0.0
+  pdf: ^3.13.1
+dev_dependencies:
+  test: ^1.25.0
